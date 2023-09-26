@@ -1,0 +1,7 @@
+https://api.openweathermap.org/data/2.5/weather?q=
+nashville&units=imperial&appid=
+
+http://openweathermap.org/img/wn/
+
+https://openweathermap.org/weather-conditions
+
